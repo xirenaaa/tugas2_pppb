@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Profil Mahasiswa</string>
+    <string name="profile_image_desc">Foto profil mahasiswa</string>
+    <string name="profile_nama">Falah Auladi</string>
+    <string name="profile_nim">24/541475/SV/24912</string>
+    <string name="profile_daerah">Sleman, Yogyakarta</string>
+    <string name="profile_prodi">Teknologi Informasi</string>
+    <string name="profile_linkedin">www.linkedin.com/in/falah-auladi-347bb1246</string>
+    <string name="profile_hobi_label">Hobi</string>
+    <string name="profile_hobi">Fotografi, Explore Hobi.</string>
+    <string name="profile_quote_label">Quote Favorit</string>
+    <string name="profile_quote">"sekolah yang pinter, biar gajadi polisi</string>
+</resources>
+
